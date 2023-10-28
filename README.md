@@ -1,2 +1,2 @@
 # Latihan17
-Latihan17-ProgramTunjangan
+Latihan17 Program Tunjangan
